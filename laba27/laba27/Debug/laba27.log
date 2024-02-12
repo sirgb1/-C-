@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Большаков Сидоров\laba27\laba27\Source.cpp(63,30): warning C4566: символ, представленный универсальным именем символа "\u00F7", невозможно представить в текущей кодовой странице (1251)
+  laba27.vcxproj -> C:\Users\user\Desktop\Большаков Сидоров\laba27\Debug\laba27.exe
